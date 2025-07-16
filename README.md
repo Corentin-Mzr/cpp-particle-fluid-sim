@@ -14,7 +14,7 @@ Particle-based fluid simulation in C++ and SFML
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Corentin-Mzr/<repo-name>
+git clone https://github.com/Corentin-Mzr/cpp-particle-fluid-sim
 ```
 
 ### Build the project
